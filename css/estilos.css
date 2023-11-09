@@ -4,14 +4,14 @@
   --vermelha-escura: #af303f;
   --branca: #fff;
   --preto: #000000; 
-  --luz: rgb(229, 255, 0);
+  --luz: rgb(255, 136, 0);
 }
 
 body {
   align-items: center;
   background: linear-gradient(45deg, #a7cfdf 0%,#23538a 100%);
   background-color: #FFA500; /* Cor de fundo */
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5M5t5SRB65FBoDxJm5w0G04YDKyqbxcRo4p38BiuqXwqxgpdYa-YvAXxGMuD7mV1P4M&usqp=CAU); /* Imagem de fundo */
+  background-image: url(https://pin.it/1qzi9T7); /* Imagem de fundo */
   background-repeat: no-repeat; /* Evitar repetição da imagem */
   background-size: cover; /* Redimensionar a imagem para cobrir o elemento */
   background-position: center; /* Posição do fundo no centro */
@@ -72,3 +72,4 @@ h1 {
 .tecla:active:focus {
   box-shadow: 3px 3px 0 var(--preta) inset, 1px 1px 10px var(--luz);
 }
+:
