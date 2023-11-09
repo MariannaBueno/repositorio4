@@ -9,6 +9,10 @@
 body {
   align-items: center;
   background: linear-gradient(45deg, #a7cfdf 0%,#23538a 100%);
+  background-image: url(https://i.imgur.com/ImBMjPQ.jpg)
+  background-repeat: no-repeat; /* Evitar repetição da imagem */
+  background-size: cover; /* Redimensionar a imagem para cobrir o elemento */
+  background-position: center; /* Posição do fundo no centro */
   display: flex;
   justify-content: center;
   flex-direction: column;
