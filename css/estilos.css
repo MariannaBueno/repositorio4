@@ -11,7 +11,7 @@ body {
   align-items: center;
   background: linear-gradient(45deg, #a7cfdf 0%,#23538a 100%);
   background-color: #FFA500; /* Cor de fundo */
-  background-image: url(https://i.imgur.com/ImBMjPQ.jpeg); /* Imagem de fundo */
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5M5t5SRB65FBoDxJm5w0G04YDKyqbxcRo4p38BiuqXwqxgpdYa-YvAXxGMuD7mV1P4M&usqp=CAU); /* Imagem de fundo */
   background-repeat: no-repeat; /* Evitar repetição da imagem */
   background-size: cover; /* Redimensionar a imagem para cobrir o elemento */
   background-position: center; /* Posição do fundo no centro */
